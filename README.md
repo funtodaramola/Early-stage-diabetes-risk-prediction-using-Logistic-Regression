@@ -26,4 +26,4 @@ Alopecia 1.Yes, 2.No.
 Obesity 1.Yes, 2.No.
 Class 1.Positive, 2.Negative.
 
-Source:https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
+Data Set Source: https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
